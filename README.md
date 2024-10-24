@@ -6,7 +6,7 @@ The idea was to take a base that my teacher made with a ball and a racket, and t
 
 This project took me 10 days to dev, there are probably some mistakes and bugs among which I spotted: 
 -don't play with the mouse if a controller is plugged
--don't click at the end of the last level (let the game shows a congratulations screen)
+-don't click at the end of the last level (let the game show a congratulations screen)
 -don't cheat (ok it's not a bug)
 
 Be careful with:
