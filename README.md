@@ -4,7 +4,7 @@ Brick Breakers Inc.
 This is a game I made for my computer science teacher. 
 The idea was to take a base that my teacher made with a ball and a racket, and to create what we want with it. 
 
-This project took me 10 days to dev, so it could probably be some mistakes and bugs amgong which I spotted: 
+This project took me 10 days to dev, there are probably some mistakes and bugs among which I spotted: 
 -don't play with the mouse if a controller is plugged
 -don't click at the end of the last level (let the game shows a congratulations screen)
 -don't cheat (ok it's not a bug)
@@ -30,4 +30,4 @@ Short story summary:
 You play Bob in a company which breaks bricks, with his boss named Boss, and a co worker, Chris who's funny. The story evolves throughout the game.
 
 N.B:
-The levels get hard from the level 5, think abt some strat to counter this complication, for exemple the shop.
+The levels get hard from the level 5, think abt some strat to counter this complication, for example the shop.
